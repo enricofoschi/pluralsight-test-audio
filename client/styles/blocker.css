@@ -1,0 +1,12 @@
+.blocker {
+	position: fixed;
+	z-index: 1000;
+	top: 0;
+	left: 0;
+	padding: 100px 0 0 0;
+	text-align: center;
+	background: #fff;
+	width: 100%;
+	height: 100%;
+	display: none;
+}
